@@ -1,7 +1,7 @@
 /* 
-    33 JavaScript Concepts is a project created to help JavaScript developers master their skills. It is a compilation of fundamental JavaScript concepts that are important and fundamental. 
+   33 JavaScript концепции е проект създаден да подпомогне на JavaScript програмистите да усъвършенстват своите умения. Той представлява компилация, извадка от основни JavaScript концепции, които са важни и фундаментални. 
 
-    This project was inspired by an article written by Stephen Curtis. 
+   Този проект беше вдъхновен от статия написана от Стефан Куртис (Stephen Curtis).
 
-    Any kind of contribution is welcome. Feel free to contribute.
+   Всякакъв тип контрибуция по проекта е добре дошла.
 */

@@ -1,7 +1,7 @@
 {
   "name": "33-js-concepts",
   "version": "1.0.0",
-  "description": "33 concepts every JavaScript developer should know.",
+  "description": "33 концепции, които всеки JavaScript програмист трябва да владее.",
   "main": "index.js",
   "author": {
     "name": "Leonardo Maldonado",

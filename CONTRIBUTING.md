@@ -1,20 +1,21 @@
+# Контрибуция
+Този проект не би бил възможен без вашата помощ и подкрепа и ние високо оценяваме вашето желание да допринасяте!
 
-# Contribution
-This project would not be possible without your help and support and we appreciate your willingness to contribute!
-
-### Creating New Translation
+### Създаване на нов превод
 
 In order to create a new translation, you need to follow these steps:
+За да създадете нов превод, изпълнете следните стъпки:
 
-* Fork the [main repo](https://github.com/leonardomso/33-js-concepts).
-* Add yourself to the watch list of the main repo to keep up with changes.
-* Translate the repo on your forked repo.
-* Go to the [main repo](https://github.com/leonardomso/33-js-concepts) and edit the README.md to include your translated repo link there.
-* Inside the **Community**, add a new line with the link for your translated repo like: 
-	* [Your language in native form (English name)](link to your repo here) — Your Name
-	* e.g. `[日本語 (Japanese)](https://github.com/oimo23/33-js-concepts) — oimo23`
+* Форкнете, или казано на български "набодете на вилицата" [главното хранилище](https://github.com/leonardomso/33-js-concepts).
+* Добавете себе си към уач листът на главното хранилище за да сте в крак с промените.
+* Преведете "набученото на вилица" хранилище.
+* Отидете на [главното хранилище](https://github.com/leonardomso/33-js-concepts) и редактирайте README.md, като добавите връзка към вашето "набучено на вилица" и преведено хранилище.
+* Под **Общност**, добавете нов ред с линк към вашето преведено хранилище, като това: 
+	* [Вашият език изписан в нейтив вариант (Вашият език изписан на английски)](Връзка към вашето хранилище тук) — Вашето име
+	* пример: `[日本語 (Japanese)](https://github.com/oimo23/33-js-concepts) — oimo23`
 * Create a new Pull Request with the name "Add *your language here*" translation.
-* Now, just wait for the merge! 
+* Създайте нова заявка за изтегляне с името "Добавете *Вашият език тук*" превод.
+* Сега просто изчакайте за сдвояването!
 
-## License
-By contributing, you agree that your contributions will be licensed under its [MIT license](./LICENSE).
+## Лиценз
+Чрез допринасянето към този проект, вие се съгласявате, че вашата контрибуция ще принадлежи под нейният [MIT лиценз](./LICENSE).
